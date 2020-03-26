@@ -1,0 +1,2 @@
+serviceClass: net.datenwerke.rs.authenticator.client.login.rpc.LoginHandler
+path: 48AE325B961DCF8CAF40D7326B585AD6.gwt.rpc

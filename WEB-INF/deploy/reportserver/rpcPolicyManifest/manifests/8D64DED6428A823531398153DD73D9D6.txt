@@ -1,0 +1,2 @@
+serviceClass: net.datenwerke.rs.incubator.client.reportmetadata.rpc.ReportMetadataRpcService
+path: 98DCD7684515C630B64107B5BA421061.gwt.rpc

@@ -1,0 +1,2 @@
+serviceClass: net.datenwerke.gf.client.juel.rpc.JuelRpcService
+path: 9E03B0093A6D44E1DC4E1439F0051372.gwt.rpc

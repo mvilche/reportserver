@@ -1,0 +1,2 @@
+serviceClass: net.datenwerke.rs.core.client.i18tools.rpc.I18nToolsRpcService
+path: 6FBB6434D76E56A8D47521884D82BF06.gwt.rpc

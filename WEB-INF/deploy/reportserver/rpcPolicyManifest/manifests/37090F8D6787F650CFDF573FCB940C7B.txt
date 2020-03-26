@@ -1,0 +1,2 @@
+serviceClass: net.datenwerke.rs.birt.client.utils.rpc.BirtUtilsRpcService
+path: E455A6E598DE34C314AF95151D5F712F.gwt.rpc

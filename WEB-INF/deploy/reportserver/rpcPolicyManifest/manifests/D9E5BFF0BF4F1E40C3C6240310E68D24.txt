@@ -1,0 +1,2 @@
+serviceClass: net.datenwerke.rs.dsbundle.client.dsbundle.rpc.DatasourceBundleRpcService
+path: 3778836CE2022BCEC6B073A305925DD7.gwt.rpc

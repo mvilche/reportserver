@@ -1,0 +1,2 @@
+serviceClass: net.datenwerke.rs.base.ext.client.datasourcemanager.eximport.im.rpc.DatasourceManagerImportRpcService
+path: 418B3D4CC042B68B1B0AE11B5305DF93.gwt.rpc

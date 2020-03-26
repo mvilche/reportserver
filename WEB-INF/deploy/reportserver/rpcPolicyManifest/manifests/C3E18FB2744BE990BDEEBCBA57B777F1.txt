@@ -1,0 +1,2 @@
+serviceClass: net.datenwerke.security.ext.client.usermanager.rpc.UserManagerTreeManager
+path: 37F664FD658B1833A7E1846716840BD0.gwt.rpc

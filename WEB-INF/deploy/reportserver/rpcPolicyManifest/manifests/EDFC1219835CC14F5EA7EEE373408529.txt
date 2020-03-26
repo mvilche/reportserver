@@ -1,0 +1,2 @@
+serviceClass: net.datenwerke.rs.crystal.client.crystal.rpc.CrystalUtilsRpcService
+path: 4664DAB4F39152B62B8A1F1A17C808BD.gwt.rpc

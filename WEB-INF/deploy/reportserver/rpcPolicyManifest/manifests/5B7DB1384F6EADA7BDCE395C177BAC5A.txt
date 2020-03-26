@@ -1,0 +1,2 @@
+serviceClass: net.datenwerke.rs.core.client.reportexecutor.rpc.ReportExecutorRpcService
+path: 225EC890D8902A2453D95586FD0FA254.gwt.rpc

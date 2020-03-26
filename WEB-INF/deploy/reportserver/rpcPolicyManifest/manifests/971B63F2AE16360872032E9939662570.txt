@@ -1,0 +1,2 @@
+serviceClass: net.datenwerke.rs.incubator.client.jasperutils.rpc.JasperUtilsRpcService
+path: 4D732C71DFD6776F3F7F6B45B658BA43.gwt.rpc

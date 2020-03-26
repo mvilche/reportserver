@@ -1,0 +1,2 @@
+serviceClass: net.datenwerke.rs.incubator.client.jaspertotable.rpc.JasperToTableRpcService
+path: 94A094319218013D34C67ED5646D7BA8.gwt.rpc

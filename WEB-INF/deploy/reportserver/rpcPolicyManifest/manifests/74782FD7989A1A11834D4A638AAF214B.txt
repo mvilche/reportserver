@@ -1,0 +1,2 @@
+serviceClass: net.datenwerke.rs.core.client.sendto.rpc.SendToRpcService
+path: 23F9902E4A45F584E1B7F1FEDF96C555.gwt.rpc

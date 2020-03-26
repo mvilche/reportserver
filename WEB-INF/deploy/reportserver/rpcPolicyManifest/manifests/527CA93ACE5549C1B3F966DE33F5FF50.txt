@@ -1,0 +1,2 @@
+serviceClass: net.datenwerke.security.client.security.lostpassword.rpc.LostPasswordRpcService
+path: A9A78EEC2EA4D42B0BD65DEAB15C3D95.gwt.rpc

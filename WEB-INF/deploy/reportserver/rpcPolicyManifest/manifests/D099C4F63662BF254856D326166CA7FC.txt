@@ -1,0 +1,2 @@
+serviceClass: net.datenwerke.rs.condition.client.condition.rpc.ConditionRpcService
+path: BCA26A78E4F9BD7577C05FE2E94B75AA.gwt.rpc

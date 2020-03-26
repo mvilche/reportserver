@@ -1,0 +1,2 @@
+serviceClass: net.datenwerke.security.ext.client.usermanager.rpc.UserManagerRpcService
+path: 81CCA8802A874B67AD9C578A79AE2C89.gwt.rpc

@@ -1,0 +1,2 @@
+serviceClass: net.datenwerke.rs.base.client.parameters.datasource.rpc.DatasourceParameterRPCService
+path: E7386999CDD7CB2CB6B23074AE5BBD7D.gwt.rpc

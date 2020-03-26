@@ -1,0 +1,2 @@
+serviceClass: net.datenwerke.rs.uservariables.client.uservariables.rpc.UserVariablesRpcService
+path: 1C1693F85FC68015BD64AA72EF6B574A.gwt.rpc

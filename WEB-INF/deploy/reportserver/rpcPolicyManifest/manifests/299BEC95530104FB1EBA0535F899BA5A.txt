@@ -1,0 +1,2 @@
+serviceClass: net.datenwerke.rs.core.client.reportmanager.rpc.ReportManagerTreeLoader
+path: BEDCB7E0313255AA49B1D95CB6E558CD.gwt.rpc

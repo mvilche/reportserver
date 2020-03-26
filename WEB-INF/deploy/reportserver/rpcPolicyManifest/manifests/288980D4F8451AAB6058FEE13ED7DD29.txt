@@ -1,0 +1,2 @@
+serviceClass: net.datenwerke.gf.client.theme.rpc.ThemeRpcService
+path: 816F209592F03A17ED8DA81EE0D655C4.gwt.rpc

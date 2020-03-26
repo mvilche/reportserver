@@ -1,0 +1,2 @@
+serviceClass: net.datenwerke.rs.passwordpolicy.client.accountinhibition.rpc.AccountInhibitionRpcService
+path: C1B0A4795B31EA18A5BE82022BC6C11C.gwt.rpc

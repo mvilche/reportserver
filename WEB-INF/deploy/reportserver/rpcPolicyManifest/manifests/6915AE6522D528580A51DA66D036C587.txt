@@ -1,0 +1,2 @@
+serviceClass: net.datenwerke.rs.passwordpolicy.client.activateuser.rpc.ActivateUserRpcService
+path: 5B87ACFE19206A9481874D70D360AA8F.gwt.rpc

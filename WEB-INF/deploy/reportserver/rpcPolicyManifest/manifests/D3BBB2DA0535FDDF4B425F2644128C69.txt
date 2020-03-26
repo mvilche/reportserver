@@ -1,0 +1,2 @@
+serviceClass: net.datenwerke.rs.terminal.client.terminal.rpc.TerminalRpcService
+path: 57549B5F9559E6707EAD4517E4F0DD62.gwt.rpc

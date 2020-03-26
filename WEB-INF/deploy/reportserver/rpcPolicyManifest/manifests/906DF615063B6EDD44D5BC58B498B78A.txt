@@ -1,0 +1,2 @@
+serviceClass: net.datenwerke.rs.fileserver.client.fileserver.rpc.FileServerTreeLoader
+path: 74DE1A6015EF1256A0E9AED518117E9C.gwt.rpc
